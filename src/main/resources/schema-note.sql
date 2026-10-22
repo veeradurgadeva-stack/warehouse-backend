@@ -1,0 +1,5 @@
+-- Intentionally no CREATE TABLE statements here.
+-- The project uses the existing Oracle XE 21c schema created for the warehouse project.
+-- Required tables:
+-- USERS, SUPPLIERS, PRODUCTS, INVENTORY, WAREHOUSES,
+-- WAREHOUSE_LOCATIONS, STOCK_RECEIVING, ORDERS, ORDER_ITEMS.
